@@ -16,5 +16,11 @@
 |      Idea     | Usage |                         Code                                |               
 | ------------- | :---: | ----------------------------------------------------------- | 
 |     Class     | 2 items | p class="webtext active" |
-|               |   2   | |
+|               |   2   | `.webtext{
+    border: 5px solid blanchedalmond;
+}
+
+.active{
+    color: grey;
+}`|
 |               |   3   |     |
