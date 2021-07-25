@@ -15,6 +15,6 @@
   
 |      Idea     | Usage |                         Code                                |               
 | ------------- | :---: | ----------------------------------------------------------- | 
-|     Class     | 2 items |<p class="webtext active"> |
+|     Class     | 2 items | p class="webtext active" |
 |               |   2   | |
 |               |   3   |     |
