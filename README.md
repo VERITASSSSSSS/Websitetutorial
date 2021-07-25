@@ -2,7 +2,7 @@
 
 
 |      Idea     | Usage |                         Code                                |               
-| ------------- | ----- | ----------------------------------------------------------- | 
+| ------------- | :---: | ----------------------------------------------------------- | 
 | Change styles |   1   |link rel="stylesheet" type="text/css" href="style.css"     |
 |               |   2   |<header style="background-color:green"; color: red"|
 |               |   3   |  <style> li{ background-color: purple;color: orangered;}    |
@@ -10,3 +10,11 @@
 |               |  exp  |         (r ,  g ,  b , transparency 0~1 ) |
 |               |  web  | [Paletton](https://paletton.com/#uid=7000u0kllllaFw0g0qFqFg0w0aF)|
 |  Selector    |  1     | h2,p{}|
+
+  # Some other infos
+  
+|      Idea     | Usage |                         Code                                |               
+| ------------- | :---: | ----------------------------------------------------------- | 
+|     Class     | 2 items |<p class="webtext active"> |
+|               |   2   | |
+|               |   3   |     |
