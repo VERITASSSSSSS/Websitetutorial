@@ -8,3 +8,4 @@
 |               |   3   |  <style> li{ background-color: purple;color: orangered;}    |
 |    Coloring   |   1   |     border: 5px dashed rgba(34, 102, 102, 0.5);      |
 |               |  exp  |         (r ,  g ,  b , transparency 0~1 ) |
+|               |  web  | <Paletton> (https://paletton.com/#uid=7000u0kllllaFw0g0qFqFg0w0aF)|
