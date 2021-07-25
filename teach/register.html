@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title> 
+</head>
+
+<body>
+    <form method="GET" action="action.php"> <!--Post:wont appear info--> 
+        First name: <input type="text" name="firstname"><br><br>   <!--Name => Property-->
+        Last name: <input type="text" name="lastname"><br><br>
+        Birthday: <input type="date" name="birthday"><br><br>
+        Gender:<br>
+        <input type="radio" name="Gender" value="Male" > Male<br>
+        <input type="radio" name="Gender" value="Female"> Female<br>
+        <input type="radio" name="Gender" value="Other"> Other<br><br>
+
+        Email: <input type="email" name="email" required><br>
+        Password: <input type="password" name="password" required min="5"><br>
+        
+
+        Pets:<br>
+        <input type="checkbox" name="Cat"> Cat<br>
+        <input type="checkbox" name="Dog"> Dogs<br>
+        <input type="checkbox" name="None"> None<br><br>
+
+        Cars:<br>
+        <select name="Cars">
+            <option value="volvo" > Volvo</option>
+            <option value="Audi" > Audi </option> <br><br>
+        </select><br><br>
+
+        <input type="submit" value="Register!">
+        <input type="reset" >
+
+
+    </form>
+</body>
+
+</html>
+
+<!--
+?
+firstname=dsaf
+&lastname=dsfa
+&birthday=2021-07-03
+&Gender=Female
+&email=patkuo14%40gmail.com
+&password=sad
+&Dog=on
+&Cars=Audi
+-->
+
