@@ -15,12 +15,17 @@
   
 |      Idea     | Usage |                         Code                                |               
 | ------------- | :---: | ----------------------------------------------------------- | 
-|     Class     | 2 items | p class="webtext active" |
-|               |   2   | `.webtext{
-    border: 5px solid blanchedalmond;
-}
+|     Class     | 2 items| p class="webtext active" |
+|       f        |   2   |                            f |
+|       f        |   3   |                     f          |
 
-.active{
-    color: grey;
-}`|
-|               |   3   |     |
+# Table 
+  
+|      Idea     | Usage |                         Code                                |               
+| :---:         | :---: | ----------------------------------------------------------- | 
+|  table      |    *   | defines an HTML table|
+|  th         | bold. centered| table row|
+|  td         | regula. left-aligned| table data/cell is defined with it|
+
+  
+
