@@ -52,4 +52,6 @@
 |   p elements inside a div element  | div p     |
 |  group selectors  | Separate each selector with a comma   |
 |   default value of the position property  | static    |
+  
+  https://darekkay.com/flexbox-cheatsheet/
 
