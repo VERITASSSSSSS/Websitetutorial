@@ -27,5 +27,12 @@
 |  th         | bold. centered| table row|
 |  td         | regula. left-aligned| table data/cell is defined with it|
 
+
+# CSS em rem
   
+|      Idea     | Usage |                         Code                                |               
+| :---:         | :---: | ----------------------------------------------------------- | 
+|  em     |    font-size: 5em;   | p font-size * em |
+|  rem    | font-size: 5rem| html*rem|
+
 
