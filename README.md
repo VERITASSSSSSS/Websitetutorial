@@ -36,3 +36,20 @@
 |  rem    | font-size: 5rem| html*rem|
 
 
+# Others
+  
+|      Idea     |    CSS   |          
+| :---:         | -----------|
+|  Change text color    |    color  | 
+| CSS syntax for making all the <p> elements bold  | p {font-weight:bold;}  |
+| display hyperlinks without an underline  | a {text-decoration:none;}    |
+| text start with a capital letter  | text-transform:capitalize    |
+|  change the font of an element  |   font-family      |
+| text bold  | font-weight:bold;    |
+| items with squares  | list-style-type: square;      |
+|  id 'demo'  | #demo        |
+|  class name 'test'  | .test         |
+|   p elements inside a div element  | div p     |
+|  group selectors  | Separate each selector with a comma   |
+|   default value of the position property  | static    |
+
