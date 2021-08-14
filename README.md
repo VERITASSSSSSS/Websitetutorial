@@ -61,8 +61,8 @@
 | :---:         | -----------|
 | for small window grid 3 med/6 large/12 | div class="col col-sm-3 col-md-6 col-lg-12" |
  
- *Remove browser margin*
-  https://github.com/necolas/normalize.css/blob/master/normalize.css
-calc(100vh - 10px)  表示整个浏览器窗口高度减去10px的大小
-calc(100vw - 10px)   表示整个浏览器窗口宽度减去10px的大小
-  https://dev.to/pheeria/css-battle-1-simply-square-c19
+ # Remove browser margin
+  https://github.com/necolas/normalize.css/blob/master/normalize.css <p>
+calc(100vh - 10px)  表示整个浏览器窗口高度减去10px的大小 <p>
+calc(100vw - 10px)   表示整个浏览器窗口宽度减去10px的大小 <p>
+  https://dev.to/pheeria/css-battle-1-simply-square-c19 <p>
