@@ -56,6 +56,7 @@
   https://darekkay.com/flexbox-cheatsheet/
   
   #Change Grid size accordingly to window
+  https://getbootstrap.com/docs/4.6/getting-started/introduction/
 |      Idea     |    CSS   |          
 | :---:         | -----------|
 | for small window grid 3 med/6 large/12 | div class="col col-sm-3 col-md-6 col-lg-12" |
