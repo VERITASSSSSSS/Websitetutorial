@@ -60,4 +60,7 @@
 |      Idea     |    CSS   |          
 | :---:         | -----------|
 | for small window grid 3 med/6 large/12 | div class="col col-sm-3 col-md-6 col-lg-12" |
+ 
+ *Remove browser margin*
+  https://github.com/necolas/normalize.css/blob/master/normalize.css
 
