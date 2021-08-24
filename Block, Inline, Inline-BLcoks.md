@@ -7,9 +7,11 @@
 
 
 # Inline Elements
+* Side by side
+* Takes
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzA0ODY4MF19
+eyJoaXN0b3J5IjpbLTMwNzQ5ODM0NV19
 -->
