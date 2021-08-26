@@ -20,13 +20,13 @@ grid-template-columns: repeat(3);
 ## Use this for more response
 * grid-template-columns: repeat(**auto-fill**, **minmax(200px, 1fr)**)  
 
-* green{grid-column: 1/4;} <p>
+* green{grid-column: 1/4; <p>
 	(where it start) / (where it end)
-	<p>
 <div>
 <img src="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="300" height="200"/>
 </div>
-<p>
+
+<p><p>
 
 * `` grid-column: 1/-1;`` → start to **very end**
 
@@ -36,19 +36,15 @@ grid-template-columns: repeat(3);
  
 <p><p>
 
-* 
+* ` .green{grid-column: span 3;}`
 
- .green{
 
-grid-column: span 3;
-
-}
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc1NjM1NTMsLTE5NTk2NzgwMDksNz
-k1ODg0ODg3LDIwNDE3ODIwOTcsLTI4NTY4NzExMiwzMzU4MDg1
-OTcsNDg2MTg4NTMwLC0zOTc0MzMzMzMsLTE2NzMwMDc5MTcsNT
-U0NDM4NjkzLC00NzM1MzI2MTksMTA5NzU2NzkwMiwtODU3NDgx
-MzQwXX0=
+eyJoaXN0b3J5IjpbLTEyMzU4MjQ2NCwtMTk1OTY3ODAwOSw3OT
+U4ODQ4ODcsMjA0MTc4MjA5NywtMjg1Njg3MTEyLDMzNTgwODU5
+Nyw0ODYxODg1MzAsLTM5NzQzMzMzMywtMTY3MzAwNzkxNyw1NT
+Q0Mzg2OTMsLTQ3MzUzMjYxOSwxMDk3NTY3OTAyLC04NTc0ODEz
+NDBdfQ==
 -->
