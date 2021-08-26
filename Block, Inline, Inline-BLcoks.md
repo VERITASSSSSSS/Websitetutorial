@@ -12,10 +12,10 @@
 * Width & Height **can't** be set
 
 # Grid Templates
-``fr`` -> 
+``fr`` → 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjEwNjgwMSwtMTAzNjA5MTk3MCwtMz
+eyJoaXN0b3J5IjpbLTkzNTE2NzMwMiwtMTAzNjA5MTk3MCwtMz
 A3NDk4MzQ1XX0=
 -->
