@@ -23,9 +23,11 @@ grid-template-columns: repeat(3);
 	<p>
 ![image](https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png)
 
+*`` grid-column: 1/-1;`` → start to **very end**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzMwMDc5MTcsNTU0NDM4NjkzLC00Nz
-M1MzI2MTksMTA5NzU2NzkwMiwtODU3NDgxMzQwXX0=
+eyJoaXN0b3J5IjpbLTM5NzQzMzMzMywtMTY3MzAwNzkxNyw1NT
+Q0Mzg2OTMsLTQ3MzUzMjYxOSwxMDk3NTY3OTAyLC04NTc0ODEz
+NDBdfQ==
 -->
