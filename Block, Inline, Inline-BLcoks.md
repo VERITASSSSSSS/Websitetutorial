@@ -16,13 +16,16 @@
 	grid-template-columns: 1fr 1fr 2fr;
 	|----| |----| |------|
 	
-* ``auto``-> fill in whatecer avaliable
+* ``auto``→ fill in whatecer avaliable
 	grid-template-columns: auto 1fr 2fr;
+	| --adjust--| |--| |----|
+
+* ``repeat( )``→ (how many times, fr)
 
 	
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjMxMDkwMiwtMTE5MDIwMTc2MCwtOT
-M1MTY3MzAyLC0xMDM2MDkxOTcwLC0zMDc0OTgzNDVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjQzMzAyOTQsLTExOTAyMDE3NjAsLT
+kzNTE2NzMwMiwtMTAzNjA5MTk3MCwtMzA3NDk4MzQ1XX0=
 -->
