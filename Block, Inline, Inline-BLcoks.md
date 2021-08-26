@@ -24,11 +24,12 @@
 	| --adjust--| |--| |----|
 
 * ``repeat( )``→ (how many times, fr)
-grid-template-columns: repeat(3); 
+grid-template-columns: repeat(3);
 	
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjU0MjY4NCwtMTE5MDIwMTc2MCwtOT
-M1MTY3MzAyLC0xMDM2MDkxOTcwLC0zMDc0OTgzNDVdfQ==
+eyJoaXN0b3J5IjpbLTM5ODcyOTA3MiwtNDM2NTQyNjg0LC0xMT
+kwMjAxNzYwLC05MzUxNjczMDIsLTEwMzYwOTE5NzAsLTMwNzQ5
+ODM0NV19
 -->
