@@ -31,7 +31,7 @@ grid-template-columns: repeat(3);
 *`` grid-column: 1/-1;`` → start to **very end**
 
 <div>
-<img src="https://user-images.githubusercontent.com/68550874/130942528-92279ea7-850e-4ee3-a5d1-3898512ae5e6.png" width="400" height="300"/>
+<img src="https://user-images.githubusercontent.com/68550874/130942528-92279ea7-850e-4ee3-a5d1-3898512ae5e6.png" width="300" height="150"/>
 </div>
 
 
