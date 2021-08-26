@@ -24,22 +24,22 @@ grid-template-columns: repeat(3);
 	(where it start) / (where it end)
 	<p>
 
-<div>
-<img src="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="300" height="200"/>
+200"/>
 </div>
 
+00"di
 *`` grid-column: 1/-1;`` → start to **very end**
 
 <div>
 <img src="https://user-images.githubusercontent.com/68550874/130942528-92279ea7-850e-4ee3-a5d1-3898512ae5e6.png" width="300" height="150"/>
 </div>
-
+ 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODg0ODg3LDIwNDE3ODIwOTcsLTI4NT
-Y4NzExMiwzMzU4MDg1OTcsNDg2MTg4NTMwLC0zOTc0MzMzMzMs
-LTE2NzMwMDc5MTcsNTU0NDM4NjkzLC00NzM1MzI2MTksMTA5Nz
-U2NzkwMiwtODU3NDgxMzQwXX0=
+eyJoaXN0b3J5IjpbLTE5NTk2NzgwMDksNzk1ODg0ODg3LDIwND
+E3ODIwOTcsLTI4NTY4NzExMiwzMzU4MDg1OTcsNDg2MTg4NTMw
+LC0zOTc0MzMzMzMsLTE2NzMwMDc5MTcsNTU0NDM4NjkzLC00Nz
+M1MzI2MTksMTA5NzU2NzkwMiwtODU3NDgxMzQwXX0=
 -->
