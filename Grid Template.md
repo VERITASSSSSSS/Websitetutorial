@@ -37,6 +37,14 @@ grid-template-columns: repeat(3);
 <p><p>
 
 * ` .green{grid-column: span 3;}`
+	
+	<div>
+	<img src="https://user-images.githubusercontent.com/68550874/130947619-6ce4ee06-c14d-4ac4-b192-0df5abf55de9.png" width="300" height="150"/>
+	</div>
+
+
+
+	
 
 
 
