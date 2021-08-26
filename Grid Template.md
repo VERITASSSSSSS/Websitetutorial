@@ -48,7 +48,18 @@ grid-template-columns: repeat(3);
 	<img src="https://user-images.githubusercontent.com/68550874/130948215-5c06a12e-de6b-4162-b3a5-960e5cbbc723.png" width="490" height="150"/>
 	</div>
 
+* ` .green{grid-column: span 2; grid-row: 1/3;justify-self: start;}`
 
+	<div>
+	<img src="https://user-images.githubusercontent.com/68550874/130948688-a6dc524b-797e-4968-af0c-eeb4645956c5.png" width="150" height="150"/>
+	</div>
+
+* ` .green{grid-column: span 2; grid-row: 1/3;align-self: start;}`
+
+	<div>
+	<img src="https://user-images.githubusercontent.com/68550874/130948834-bcaee634-ce16-4dc6-b015-2d1b2e009bb5.png" width="150" height="150"/>
+	</div>
+	
 
 
 
