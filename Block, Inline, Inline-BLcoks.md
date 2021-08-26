@@ -16,7 +16,7 @@
 * ``grid-template-rows: ;``
 
 * ``fr`` → fraction
-	grid-template-columns: 1fr 1fr 2fr;
+	grid-template-columns: 1fr 1fr 2fr; <p>
 	|----| |----| |------|
 	
 * ``auto``→ fill in whatecer avaliable
@@ -29,7 +29,7 @@ grid-template-columns: repeat(3);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODcyOTA3MiwtNDM2NTQyNjg0LC0xMT
-kwMjAxNzYwLC05MzUxNjczMDIsLTEwMzYwOTE5NzAsLTMwNzQ5
-ODM0NV19
+eyJoaXN0b3J5IjpbLTExMzQ4MDM4NDYsLTM5ODcyOTA3MiwtND
+M2NTQyNjg0LC0xMTkwMjAxNzYwLC05MzUxNjczMDIsLTEwMzYw
+OTE5NzAsLTMwNzQ5ODM0NV19
 -->
