@@ -23,7 +23,9 @@ grid-template-columns: repeat(3);
 * green{grid-column: 1/4;} <p>
 	(where it start) / (where it end)
 	<p>
-![image](https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png){ width=50% }
+![image](https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png)
+
+<img scr="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="200">
 
 *`` grid-column: 1/-1;`` → start to **very end**
 		
@@ -32,7 +34,7 @@ grid-template-columns: repeat(3);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MDk3MzkwLDMzNTgwODU5Nyw0ODYxOD
-g1MzAsLTM5NzQzMzMzMywtMTY3MzAwNzkxNyw1NTQ0Mzg2OTMs
-LTQ3MzUzMjYxOSwxMDk3NTY3OTAyLC04NTc0ODEzNDBdfQ==
+eyJoaXN0b3J5IjpbLTI4NTY4NzExMiwzMzU4MDg1OTcsNDg2MT
+g4NTMwLC0zOTc0MzMzMzMsLTE2NzMwMDc5MTcsNTU0NDM4Njkz
+LC00NzM1MzI2MTksMTA5NzU2NzkwMiwtODU3NDgxMzQwXX0=
 -->
