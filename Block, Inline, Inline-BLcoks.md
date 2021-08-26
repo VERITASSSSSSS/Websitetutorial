@@ -14,7 +14,6 @@
 # Grid Templates
 * ``fr`` → fraction
 	grid-template-columns: 1fr 1fr 2fr;
-	![image](https://user-images.githubusercontent.com/68550874/130914387-63441b05-01a9-4b71-bc15-1ed14030d1e8.png)
 
 	
 
