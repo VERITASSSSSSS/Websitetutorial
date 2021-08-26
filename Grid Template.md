@@ -42,9 +42,16 @@ grid-template-columns: repeat(3);
 	<img src="https://user-images.githubusercontent.com/68550874/130947619-6ce4ee06-c14d-4ac4-b192-0df5abf55de9.png" width="300" height="150"/>
 	</div>
 
+* .green{grid-column: span 2; grid-row: 1/3;}
+
+	<div>
+	<img src="https://user-images.githubusercontent.com/68550874/130948215-5c06a12e-de6b-4162-b3a5-960e5cbbc723.png" width="300" height="150"/>
+	</div>
 
 
-	
+
+
+
 
 
 
