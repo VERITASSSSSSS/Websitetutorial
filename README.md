@@ -66,3 +66,14 @@
 calc(100vh - 10px)  表示整个浏览器窗口高度减去10px的大小 <p>
 calc(100vw - 10px)   表示整个浏览器窗口宽度减去10px的大小 <p>
   https://dev.to/pheeria/css-battle-1-simply-square-c19 <p>
+  
+  
+  # Let's Talk about 
+
+
+- **Grids**   https://github.com/veritasestmoi/Websitetutorial/blob/master/Grid%20Template.md
+
+- **Block Elements** https://github.com/veritasestmoi/Websitetutorial/blob/master/Block%20ElementBlock,%20Inline,%20Inline-BLcoks.md
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3OTM0MjE2NzNdfQ==
+-->
