@@ -42,10 +42,10 @@ grid-template-columns: repeat(3);
 	<img src="https://user-images.githubusercontent.com/68550874/130947619-6ce4ee06-c14d-4ac4-b192-0df5abf55de9.png" width="300" height="150"/>
 	</div>
 
-* .green{grid-column: span 2; grid-row: 1/3;}
+* ` .green{grid-column: span 2; grid-row: 1/3;}`
 
 	<div>
-	<img src="https://user-images.githubusercontent.com/68550874/130948215-5c06a12e-de6b-4162-b3a5-960e5cbbc723.png" width="450" height="150"/>
+	<img src="https://user-images.githubusercontent.com/68550874/130948215-5c06a12e-de6b-4162-b3a5-960e5cbbc723.png" width="490" height="150"/>
 	</div>
 
 
@@ -57,9 +57,9 @@ grid-template-columns: repeat(3);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU4MjQ2NCwtMTk1OTY3ODAwOSw3OT
-U4ODQ4ODcsMjA0MTc4MjA5NywtMjg1Njg3MTEyLDMzNTgwODU5
-Nyw0ODYxODg1MzAsLTM5NzQzMzMzMywtMTY3MzAwNzkxNyw1NT
-Q0Mzg2OTMsLTQ3MzUzMjYxOSwxMDk3NTY3OTAyLC04NTc0ODEz
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTE5ODQ4MTc3NDAsLTEyMzU4MjQ2NCwtMT
+k1OTY3ODAwOSw3OTU4ODQ4ODcsMjA0MTc4MjA5NywtMjg1Njg3
+MTEyLDMzNTgwODU5Nyw0ODYxODg1MzAsLTM5NzQzMzMzMywtMT
+Y3MzAwNzkxNyw1NTQ0Mzg2OTMsLTQ3MzUzMjYxOSwxMDk3NTY3
+OTAyLC04NTc0ODEzNDBdfQ==
 -->
