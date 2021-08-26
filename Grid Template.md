@@ -14,8 +14,9 @@
 * ``repeat( )``→ (how many times, fr) <p>
 grid-template-columns: repeat(3);
 	
+* ``justify-items: start;`` 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzQ4MTM0MF19
+eyJoaXN0b3J5IjpbMTA5NzU2NzkwMiwtODU3NDgxMzQwXX0=
 -->
