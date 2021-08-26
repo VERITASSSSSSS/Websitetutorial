@@ -14,11 +14,13 @@
 # Grid Templates
 * ``fr`` → fraction
 	grid-template-columns: 1fr 1fr 2fr;
+	|----| |----| |------|
+* 
 
 	
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAyMDE3NjAsLTkzNTE2NzMwMiwtMT
-AzNjA5MTk3MCwtMzA3NDk4MzQ1XX0=
+eyJoaXN0b3J5IjpbLTE4MjA5NDIxNDgsLTExOTAyMDE3NjAsLT
+kzNTE2NzMwMiwtMTAzNjA5MTk3MCwtMzA3NDk4MzQ1XX0=
 -->
