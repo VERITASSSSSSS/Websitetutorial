@@ -24,7 +24,7 @@ grid-template-columns: repeat(3);
 	(where it start) / (where it end)
 	<p>
 
-<img scr="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="200" height="200">		
+<img scr="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="400" height="300">		
 
 
 *`` grid-column: 1/-1;`` → start to **very end**
