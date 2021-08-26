@@ -24,18 +24,18 @@ grid-template-columns: repeat(3);
 	(where it start) / (where it end)
 	<p>
 
-<img scr="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="400" height="300">		
+    <img scr="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="400" height="3		
 
 
 *`` grid-column: 1/-1;`` → start to **very end**
 		
-![image](https://user-images.githubusercontent.com/68550874/130942528-92279ea7-850e-4ee3-a5d1-3898512ae5e6.png )
+imghttps://user-images.githubusercontent.com/68550874/130942528-92279ea7-850e-4ee3-a5d1-3898512ae5e6.png )
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTc4MjA5NywtMjg1Njg3MTEyLDMzNT
-gwODU5Nyw0ODYxODg1MzAsLTM5NzQzMzMzMywtMTY3MzAwNzkx
-Nyw1NTQ0Mzg2OTMsLTQ3MzUzMjYxOSwxMDk3NTY3OTAyLC04NT
-c0ODEzNDBdfQ==
+eyJoaXN0b3J5IjpbNzk1ODg0ODg3LDIwNDE3ODIwOTcsLTI4NT
+Y4NzExMiwzMzU4MDg1OTcsNDg2MTg4NTMwLC0zOTc0MzMzMzMs
+LTE2NzMwMDc5MTcsNTU0NDM4NjkzLC00NzM1MzI2MTksMTA5Nz
+U2NzkwMiwtODU3NDgxMzQwXX0=
 -->
