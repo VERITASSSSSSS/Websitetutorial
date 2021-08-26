@@ -13,6 +13,7 @@
 
 # Grid Templates
 * ``grid-template-columns: `` → we want columns
+* ``grid-template-rows:``
 
 * ``fr`` → fraction
 	grid-template-columns: 1fr 1fr 2fr;
@@ -28,6 +29,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzEyOTUwMCwtMTE5MDIwMTc2MCwtOT
+eyJoaXN0b3J5IjpbMjA5MzA1ODgyNywtMTE5MDIwMTc2MCwtOT
 M1MTY3MzAyLC0xMDM2MDkxOTcwLC0zMDc0OTgzNDVdfQ==
 -->
