@@ -15,10 +15,11 @@
 grid-template-columns: repeat(3);
 	
 * ``justify-items: start;``  → align grid items with start of row axis
-* grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))  
+
+* grid-template-columns: repeat(**auto-fill**, **minmax(200px, 1fr)**)  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMjEzNTc1LDEwOTc1Njc5MDIsLTg1Nz
-Q4MTM0MF19
+eyJoaXN0b3J5IjpbLTQ3MzUzMjYxOSwxMDk3NTY3OTAyLC04NT
+c0ODEzNDBdfQ==
 -->
