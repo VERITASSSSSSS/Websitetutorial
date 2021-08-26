@@ -15,21 +15,21 @@
 * ``grid-template-columns: ; `` → we want columns
 * ``grid-template-rows: ;``
 
-* ``fr`` → fraction
+* ``fr`` → fraction <p>
 	grid-template-columns: 1fr 1fr 2fr; <p>
 	|----| |----| |------|
 	
-* ``auto``→ fill in whatecer avaliable
-	grid-template-columns: auto 1fr 2fr;
+* ``auto``→ fill in whatecer avaliable <p>
+	grid-template-columns: auto 1fr 2fr; <p>
 	| --adjust--| |--| |----|
 
-* ``repeat( )``→ (how many times, fr)
+* ``repeat( )``→ (how many times, fr) <p>
 grid-template-columns: repeat(3);
 	
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ4MDM4NDYsLTM5ODcyOTA3MiwtND
-M2NTQyNjg0LC0xMTkwMjAxNzYwLC05MzUxNjczMDIsLTEwMzYw
-OTE5NzAsLTMwNzQ5ODM0NV19
+eyJoaXN0b3J5IjpbMTU3MjA3ODIyLC0zOTg3MjkwNzIsLTQzNj
+U0MjY4NCwtMTE5MDIwMTc2MCwtOTM1MTY3MzAyLC0xMDM2MDkx
+OTcwLC0zMDc0OTgzNDVdfQ==
 -->
