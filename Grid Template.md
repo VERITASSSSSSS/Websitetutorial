@@ -5,6 +5,7 @@
 
 * ``justify-items: start;``  → align grid items with start of row axis
 
+## Add in grid templates
 * ``fr`` → fraction <p>
 	grid-template-columns: 1fr 1fr 2fr; <p>
 	|----| |----| |------|
@@ -16,7 +17,7 @@
 * ``repeat( )``→ (how many times, fr) <p>
 grid-template-columns: repeat(3);
 	
-
+## Use this for more response
 * grid-template-columns: repeat(**auto-fill**, **minmax(200px, 1fr)**)  
 
 * green{grid-column: 1/4;} <p>
@@ -28,7 +29,7 @@ grid-template-columns: repeat(3);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0MDc3NjI3LC0zOTc0MzMzMzMsLTE2Nz
+eyJoaXN0b3J5IjpbNDg2MTg4NTMwLC0zOTc0MzMzMzMsLTE2Nz
 MwMDc5MTcsNTU0NDM4NjkzLC00NzM1MzI2MTksMTA5NzU2Nzkw
 MiwtODU3NDgxMzQwXX0=
 -->
