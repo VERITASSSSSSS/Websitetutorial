@@ -24,15 +24,16 @@ grid-template-columns: repeat(3);
 	(where it start) / (where it end)
 	<p>
 
-    <img scr="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="400" height="300">
-		
 <div>
 <img src="https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png" width="400" height="300"/>
 </div>
 
 *`` grid-column: 1/-1;`` → start to **very end**
-		
-imghttps://user-images.githubusercontent.com/68550874/130942528-92279ea7-850e-4ee3-a5d1-3898512ae5e6.png )
+
+<div>
+<img src="https://user-images.githubusercontent.com/68550874/130942528-92279ea7-850e-4ee3-a5d1-3898512ae5e6.png" width="400" height="300"/>
+</div>
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
