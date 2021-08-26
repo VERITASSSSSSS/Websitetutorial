@@ -1,15 +1,3 @@
-# Block-level Elements
-
-* **Full-width** by default
-* Each starts with a **new line**
-* Width & Height **can** be set
-*  ```<div> <p> <h1> <ul> <footer>```
-
-
-# Inline Elements
-* Side by side
-* Takes space as much as needed
-* Width & Height **can't** be set
 
 # Grid Templates
 * ``grid-template-columns: ; `` → we want columns
@@ -29,5 +17,5 @@ grid-template-columns: repeat(3);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjA3ODIyXX0=
+eyJoaXN0b3J5IjpbLTg1NzQ4MTM0MF19
 -->
