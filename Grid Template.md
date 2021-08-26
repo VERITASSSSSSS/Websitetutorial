@@ -18,8 +18,10 @@ grid-template-columns: repeat(3);
 
 * grid-template-columns: repeat(**auto-fill**, **minmax(200px, 1fr)**)  
 
+* grid-column: 1/4;
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzUzMjYxOSwxMDk3NTY3OTAyLC04NT
-c0ODEzNDBdfQ==
+eyJoaXN0b3J5IjpbNTU0NDM4NjkzLC00NzM1MzI2MTksMTA5Nz
+U2NzkwMiwtODU3NDgxMzQwXX0=
 -->
