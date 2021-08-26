@@ -18,7 +18,9 @@ grid-template-columns: repeat(3);
 
 * grid-template-columns: repeat(**auto-fill**, **minmax(200px, 1fr)**)  
 
-* grid-column: 1/4;
+* green{grid-column: 1/4;}
+	![image](https://user-images.githubusercontent.com/68550874/130927830-2859bd7f-f5dd-4fe7-82f1-28fe949e1335.png)
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
