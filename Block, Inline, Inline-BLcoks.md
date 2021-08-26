@@ -12,8 +12,8 @@
 * Width & Height **can't** be set
 
 # Grid Templates
-* ``grid-template-columns: `` → we want columns
-* ``grid-template-rows:``
+* ``grid-template-columns: ; `` → we want columns
+* ``grid-template-rows: ;``
 
 * ``fr`` → fraction
 	grid-template-columns: 1fr 1fr 2fr;
@@ -24,11 +24,11 @@
 	| --adjust--| |--| |----|
 
 * ``repeat( )``→ (how many times, fr)
-
+grid-template-columns: repeat(3); 
 	
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzA1ODgyNywtMTE5MDIwMTc2MCwtOT
+eyJoaXN0b3J5IjpbLTQzNjU0MjY4NCwtMTE5MDIwMTc2MCwtOT
 M1MTY3MzAyLC0xMDM2MDkxOTcwLC0zMDc0OTgzNDVdfQ==
 -->
