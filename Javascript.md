@@ -1,7 +1,7 @@
 # Questions
 ### **-    How do you declare a variable?**
 
-Variable means anything that can vary. 
+Variable means anything that can *vary*. 
 In JavaScript, a variable stores the data value that can be changed later on.
 
 Use the reserved keyword `var` to declare a variable in JavaScript.
@@ -55,5 +55,5 @@ var hundred = num;  // assigned a variable to varible
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk5MzY4NzgsLTg3NTc1ODQyNl19
+eyJoaXN0b3J5IjpbLTExNzI3NTE1NjIsLTg3NTc1ODQyNl19
 -->
