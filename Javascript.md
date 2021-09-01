@@ -8,17 +8,18 @@ Use the reserved keyword `var` to declare a variable in JavaScript.
 
 **Syntax**
    
-     var <_variable-name_>;
-     var <_variable-name_> = <_value_>;
-     
+ ``` java
+ var <_variable-name_>;
+ var <_variable-name_> = <_value_>;
+```
 
    **Example: Variable Declaration**
-   ```
+   ```java
 var msg; // declaring a variable without assigning a value
 ```
 
 **Example: Variable Initialization**
-j```
+```java
 var msg; 
 msg = "Hello JavaScript!"; // assigned a string value
 alert(msg); // access a variable
@@ -54,5 +55,5 @@ var hundred = num;  // assigned a variable to varible
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1Mjk1MTg0LC04NzU3NTg0MjZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTk5MzY4NzgsLTg3NTc1ODQyNl19
 -->
