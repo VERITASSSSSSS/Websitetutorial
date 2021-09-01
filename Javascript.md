@@ -40,7 +40,9 @@ undefined
 ```
 
 ### **-   What are three different ways to declare a variable?**
-
+1. ```var```
+2. ```let```
+3. ```const```
 
 ### **-   Which one should you use when?**
 
@@ -64,6 +66,6 @@ undefined
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Mjc2OTIyOCwtMTE3Mjc1MTU2MiwtOD
+eyJoaXN0b3J5IjpbMTk3MDY2ODQxNSwtMTE3Mjc1MTU2MiwtOD
 c1NzU4NDI2XX0=
 -->
