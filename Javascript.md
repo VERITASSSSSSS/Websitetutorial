@@ -41,8 +41,24 @@ undefined
 
 ### **-   What are three different ways to declare a variable?**
 1. ```var```
-2. ```let```
-3. ```const```
+	
+	**Syntax**
+	   
+	 ``` java
+	 var variableName = "Variable-Value;"
+	```
+
+	**Example: Variable Declaration**
+	
+	 ```java
+	<script>
+	    var geeks = "GeeksforGeeks";
+	    console.log(geeks);
+	</script>
+	```
+
+3. ```let```
+4. ```const```
 
 ### **-   Which one should you use when?**
 
@@ -66,6 +82,6 @@ undefined
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDY2ODQxNSwtMTE3Mjc1MTU2MiwtOD
+eyJoaXN0b3J5IjpbLTUyMzM2MzM3OCwtMTE3Mjc1MTU2MiwtOD
 c1NzU4NDI2XX0=
 -->
