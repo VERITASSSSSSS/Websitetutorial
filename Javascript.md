@@ -28,6 +28,16 @@ alert(msg); // access a variable
 var num = 100; 
 var hundred = num;  // assigned a variable to varible
 ```
+**Example: Multiple Variables**
+
+```java
+var one = 1, two = 'two', three;
+
+//Output
+1
+two
+undefined
+```
 
 
 ### **-   What are three different ways to declare a variable?**
@@ -55,5 +65,6 @@ var hundred = num;  // assigned a variable to varible
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI3NTE1NjIsLTg3NTc1ODQyNl19
+eyJoaXN0b3J5IjpbMTc2NDE0ODg5NCwtMTE3Mjc1MTU2MiwtOD
+c1NzU4NDI2XX0=
 -->
