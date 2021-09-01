@@ -39,7 +39,6 @@ two
 undefined
 ```
 
-
 ### **-   What are three different ways to declare a variable?**
 
 
@@ -65,6 +64,6 @@ undefined
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDE0ODg5NCwtMTE3Mjc1MTU2MiwtOD
+eyJoaXN0b3J5IjpbMTQ2Mjc2OTIyOCwtMTE3Mjc1MTU2MiwtOD
 c1NzU4NDI2XX0=
 -->
