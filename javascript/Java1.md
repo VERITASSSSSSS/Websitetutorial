@@ -150,7 +150,7 @@ true != true ->false
 var firstName = "Patricia"
 var lastName = "Kuo"
 var fullName = firstName +" "+ lastName
-alert("My name is " + fullName )
+alert("My name is" + fullName )
 ```
 
 // create a variable that holds the answer // of "firstName" + " " + "lastName"
@@ -199,7 +199,7 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NTYyNjMxLC0xMDYyNzg3MDcwLC0xOT
-IwMzc0Mjc4LDg3NzY3OTQzMCwtMTExODY5NTM5NSwxNDE5NDg2
-NTYwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg3OTYwNTE0NywtMTA2Mjc4NzA3MCwtMT
+kyMDM3NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQxOTQ4
+NjU2MCw3MzA5OTgxMTZdfQ==
 -->
