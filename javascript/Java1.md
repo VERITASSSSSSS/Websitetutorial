@@ -48,6 +48,7 @@ else if
 <!-- switch -->
 ```java
 var name="Billy"; //Hi Billy
+var name="Susan"; //Oh! You are Billy's sister!
 var name="Suzy" //I don't know you
 
 if(name==="Billy") {alert("Hi Billy");}
@@ -226,8 +227,8 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjY2ODIxLC0xMjg4NjcwOTI2LDE3MD
-cyODM1MTIsMTExMzQ2MzE5Nyw1Mjg1NjI2MzEsLTEwNjI3ODcw
-NzAsLTE5MjAzNzQyNzgsODc3Njc5NDMwLC0xMTE4Njk1Mzk1LD
-E0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU4NTIyODY0OSwtMTI4ODY3MDkyNiwxNz
+A3MjgzNTEyLDExMTM0NjMxOTcsNTI4NTYyNjMxLC0xMDYyNzg3
+MDcwLC0xOTIwMzc0Mjc4LDg3NzY3OTQzMCwtMTExODY5NTM5NS
+wxNDE5NDg2NTYwLDczMDk5ODExNl19
 -->
