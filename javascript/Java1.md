@@ -172,29 +172,28 @@ var c;
 
 ALL
 ```java
-var first =prompt("Enter first Number");   
-var second =prompt("Enter second number");
+var  first  =prompt("Enter first Number");
+var  second  =prompt("Enter second number");
+var  op  =prompt("Select an operation mode(+ - / *): ");
 
-var op= prompt("Select an operation mode(+ - / *): ");
-
-switch(op) {  
-case  '+':  
+switch(op) {
+case  '+':
 alert("The sum is: "+Number(first)+Number(second));
-break;  
+break;
 
-case '-':  
+case  '-':
 alert("The sum is: "+Number(first)-Number(second));
-break; 
+break;
 
-case '*':  
+case  '*':
 alert("The sum is: "+Number(first)*Number(second));
-break; 
+break;
 
-case '/':  
+case  '/':
 alert("The sum is: "+Number(first)/Number(second));
-break; 
+break;
 
-default:  
+default:
 alert("Wrong Input");
 }
 ```
@@ -220,8 +219,8 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzI4MzUxMiwxMTEzNDYzMTk3LDUyOD
-U2MjYzMSwtMTA2Mjc4NzA3MCwtMTkyMDM3NDI3OCw4Nzc2Nzk0
-MzAsLTExMTg2OTUzOTUsMTQxOTQ4NjU2MCw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbLTEyODg2NzA5MjYsMTcwNzI4MzUxMiwxMT
+EzNDYzMTk3LDUyODU2MjYzMSwtMTA2Mjc4NzA3MCwtMTkyMDM3
+NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQxOTQ4NjU2MC
+w3MzA5OTgxMTZdfQ==
 -->
