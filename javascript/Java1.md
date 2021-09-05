@@ -146,7 +146,12 @@ true != true ->false
 "Hi There!" + "It\'s \"sunny\" out" 
 
 ## Make a Easy cac
-
+```java
+var first =prompt("Enter first Number");   
+var second =prompt("Enter second number");
+var sum = Number(first)+Number(second);
+alert(sum);
+```
 ```java
 var first =prompt("Enter first Number");    //34
 var second =prompt("Enter second number");    //55
@@ -163,12 +168,11 @@ sum
 69
 ```
 
-```java
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMxNjY1ODEsLTE5MjAzNzQyNzgsOD
+eyJoaXN0b3J5IjpbLTExMjQ3NDM5ODUsLTE5MjAzNzQyNzgsOD
 c3Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4
 MTE2XX0=
 -->
