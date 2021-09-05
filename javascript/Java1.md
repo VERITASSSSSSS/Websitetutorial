@@ -149,7 +149,7 @@ true != true ->false
 ```java
 var firstName = "Patricia"
 var lastName = "Kuo"
-var fullName = firstName + lastName
+var fullName = firstName +" "+ lastName
 alert("My names is " + fullName )
 ```
 
@@ -199,7 +199,7 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkyMjM1MDMsLTEwNjI3ODcwNzAsLT
-E5MjAzNzQyNzgsODc3Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MTk0
-ODY1NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg1OTQwNjQ2OCwtMTA2Mjc4NzA3MCwtMT
+kyMDM3NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQxOTQ4
+NjU2MCw3MzA5OTgxMTZdfQ==
 -->
