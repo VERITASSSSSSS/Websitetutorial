@@ -145,8 +145,20 @@ true != true ->false
 // Make the string: "Hi There! It's "sunny" out" by using the + sign:
 "Hi There!" + "It\'s \"sunny\" out" 
 
+## Make a Easy cac
+
+```java
+var first =prompt("Enter first Number");   
+var second =prompt("Enter second number");
+
+undefined
+```
+
+Number(first) + Numbe
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjAzNzQyNzgsODc3Njc5NDMwLC0xMT
-E4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODM1NDYxNTAwLC0xOTIwMzc0Mjc4LDg3Nz
+Y3OTQzMCwtMTExODY5NTM5NSwxNDE5NDg2NTYwLDczMDk5ODEx
+Nl19
 -->
