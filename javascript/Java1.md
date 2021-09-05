@@ -115,22 +115,23 @@ false - true -> -1
 
 //Evaluate the below comparisons:
 5 >= 1 -> true
-0 === 1 -> falsee
+0 === 1 -> false
 4 <= 1 => false
 1 != 1 -> false
 "A" > "B" -> false
 "B" < "C" -> true
- **"a" > "A" -> false 
+ **"a" > "A" -> true
 "b" < "A" -> false
-( a<A {lowercase< UPPERCASE})**
-true === false
-true != true
+( A>a  {UPPERCASE>lowercase})**
+true === false -> false
+true != true ->false
 
 
 // Make the string: "Hi There! It's "sunny" out" by using the + sign:
+"Hi There! It's "sunny" out" 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzMjM3Mzc1LC0xMTE4Njk1Mzk1LDE0MT
+eyJoaXN0b3J5IjpbLTc5MzY1NDU1LC0xMTE4Njk1Mzk1LDE0MT
 k0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
