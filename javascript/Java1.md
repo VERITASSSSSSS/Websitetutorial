@@ -1,22 +1,22 @@
 JAVASCRIPT TYPES
 -----------------
-1. Number  -> 8/3
+1. Number  -> 8/3, 7%2
 2. String
 3. Boolean
 4. Undefined
 5. Null
-<!-- 6. Symbol (new in ECMAScript 6) -->
+ 6. Symbol (new in ECMAScript 6) 
 7. Object
 
 JAVASCRIPT COMPARISONS
 -----------------
 
-!==
-===
->=
-<=
->
-<
+    ===
+    !==
+    >=
+    <=
+    >
+    <
 
 JAVASCRIPT VARIABLES
 -----------------
@@ -99,5 +99,5 @@ yield
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODIwNzkyMjcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQxOTQ4NjU2MCw3MzA5OTgxMTZdfQ==
 -->
