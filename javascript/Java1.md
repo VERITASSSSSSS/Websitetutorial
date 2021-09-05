@@ -183,7 +183,11 @@ alert("The sum is: "+Number(first)+Number(second););
 break;  
 
 case '-':  
-// code block  
+alert("The sum is: "+Number(first)-Number(second););
+break; 
+
+case '-':  
+alert("The sum is: "+Number(first)-Number(second););
 break; 
 
 default:  
@@ -213,7 +217,8 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzQ2MzE5Nyw1Mjg1NjI2MzEsLTEwNj
-I3ODcwNzAsLTE5MjAzNzQyNzgsODc3Njc5NDMwLC0xMTE4Njk1
-Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQwNTg4MDYzNiwxMTEzNDYzMTk3LDUyOD
+U2MjYzMSwtMTA2Mjc4NzA3MCwtMTkyMDM3NDI3OCw4Nzc2Nzk0
+MzAsLTExMTg2OTUzOTUsMTQxOTQ4NjU2MCw3MzA5OTgxMTZdfQ
+==
 -->
