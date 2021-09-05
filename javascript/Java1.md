@@ -21,6 +21,20 @@ JAVASCRIPT COMPARISONS
 JAVASCRIPT VARIABLES
 -----------------
 var
+```java 
+var George ="These pretzels are making me hungry."
+
+OUTPUT
+undefined
+```
+```java
+INPUT:
+George
+
+OUTPUT:
+"These pretzels are making me hungry."
+```
+
 <!-- let (new in ECMAScript 6)-->  
 <!-- const (new in ECMAScript 6)-->
 
@@ -132,6 +146,6 @@ true != true ->false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MT
-k0ODY1NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTMzMTIxMjE4NCw4Nzc2Nzk0MzAsLTExMT
+g2OTUzOTUsMTQxOTQ4NjU2MCw3MzA5OTgxMTZdfQ==
 -->
