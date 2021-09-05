@@ -22,6 +22,7 @@
 grid-template-columns: repeat(3);
 	
 ## Use this for more response
+
 * grid-template-columns: repeat(**auto-fill**, **minmax(200px, 1fr)**)  
 
 * green{grid-column: 1/4; <p>
@@ -72,9 +73,9 @@ grid-template-columns: repeat(3);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNzUyNzY3LC0xOTg0ODE3NzQwLC0xMj
-M1ODI0NjQsLTE5NTk2NzgwMDksNzk1ODg0ODg3LDIwNDE3ODIw
-OTcsLTI4NTY4NzExMiwzMzU4MDg1OTcsNDg2MTg4NTMwLC0zOT
-c0MzMzMzMsLTE2NzMwMDc5MTcsNTU0NDM4NjkzLC00NzM1MzI2
-MTksMTA5NzU2NzkwMiwtODU3NDgxMzQwXX0=
+eyJoaXN0b3J5IjpbNTkzMTM2MjczLDk3MTc1Mjc2NywtMTk4ND
+gxNzc0MCwtMTIzNTgyNDY0LC0xOTU5Njc4MDA5LDc5NTg4NDg4
+NywyMDQxNzgyMDk3LC0yODU2ODcxMTIsMzM1ODA4NTk3LDQ4Nj
+E4ODUzMCwtMzk3NDMzMzMzLC0xNjczMDA3OTE3LDU1NDQzODY5
+MywtNDczNTMyNjE5LDEwOTc1Njc5MDIsLTg1NzQ4MTM0MF19
 -->
