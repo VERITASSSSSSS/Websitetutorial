@@ -1,7 +1,7 @@
 JAVASCRIPT TYPES
 -----------------
 1. Number  -> 8/3, 7%2
-2. String -> "this isn **\'t** very nice"
+2. String -> "this isn**\'t** very nice"
 3. Boolean
 4. Undefined
 5. Null
@@ -11,7 +11,7 @@ JAVASCRIPT TYPES
 JAVASCRIPT COMPARISONS
 -----------------
 
-    ===
+    ===  (3 EQUALS)
     !==
     >=
     <=
@@ -99,6 +99,6 @@ yield
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg2OTUzOTUsMTQxOTQ4NjU2MCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQxMjE3MDAsLTExMTg2OTUzOTUsMT
+QxOTQ4NjU2MCw3MzA5OTgxMTZdfQ==
 -->
