@@ -145,6 +145,24 @@ true != true ->false
 // Make the string: "Hi There! It's "sunny" out" by using the + sign:
 "Hi There!" + "It\'s \"sunny\" out" 
 
+// add variable "firstName" and "lastName" // so that they equal your name
+```java
+
+```
+
+// create a variable that holds the answer // of "firstName" + " " + "lastName"
+
+// Evaluate this question. What is a + b?
+var a = 34;
+var b = 21;
+a = 2;
+a + b // what is the answer here?
+
+// What is c equal to?
+var c;
+
+
+
 ## Make a Easy cac
 
 ALL
@@ -176,7 +194,7 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI3ODcwNzAsLTE5MjAzNzQyNzgsOD
-c3Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbMTM5MzA1MzQwMywtMTA2Mjc4NzA3MCwtMT
+kyMDM3NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQxOTQ4
+NjU2MCw3MzA5OTgxMTZdfQ==
 -->
