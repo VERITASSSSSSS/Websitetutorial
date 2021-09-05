@@ -177,9 +177,19 @@ var second =prompt("Enter second number");
 
 var op= prompt("Select an operation mode(+ - / *): ")
 
+switch(op) {  
+case  '+':  
+alert("The sum is: "+Number(first)+Number(second););
+break;  
 
-var sum = Number(first)+Number(second);
-alert("The sum is: "+sum);
+case '-':  
+// code block  
+break; 
+
+default:  
+//  code block_  
+}
+var sum = 
 ```
 
 BREAK IT UP
@@ -203,7 +213,7 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODIxNzI4OCw1Mjg1NjI2MzEsLTEwNj
+eyJoaXN0b3J5IjpbMTExMzQ2MzE5Nyw1Mjg1NjI2MzEsLTEwNj
 I3ODcwNzAsLTE5MjAzNzQyNzgsODc3Njc5NDMwLC0xMTE4Njk1
 Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
