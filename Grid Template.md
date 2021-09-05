@@ -1,5 +1,9 @@
 
 # Grid Templates
+### Resources:
+	https://grid.malven.co/
+	
+
 * ``grid-template-columns: ; `` → we want columns
 * ``grid-template-rows: ;``
 
@@ -68,9 +72,9 @@ grid-template-columns: repeat(3);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ4MTc3NDAsLTEyMzU4MjQ2NCwtMT
-k1OTY3ODAwOSw3OTU4ODQ4ODcsMjA0MTc4MjA5NywtMjg1Njg3
-MTEyLDMzNTgwODU5Nyw0ODYxODg1MzAsLTM5NzQzMzMzMywtMT
-Y3MzAwNzkxNyw1NTQ0Mzg2OTMsLTQ3MzUzMjYxOSwxMDk3NTY3
-OTAyLC04NTc0ODEzNDBdfQ==
+eyJoaXN0b3J5IjpbOTcxNzUyNzY3LC0xOTg0ODE3NzQwLC0xMj
+M1ODI0NjQsLTE5NTk2NzgwMDksNzk1ODg0ODg3LDIwNDE3ODIw
+OTcsLTI4NTY4NzExMiwzMzU4MDg1OTcsNDg2MTg4NTMwLC0zOT
+c0MzMzMzMsLTE2NzMwMDc5MTcsNTU0NDM4NjkzLC00NzM1MzI2
+MTksMTA5NzU2NzkwMiwtODU3NDgxMzQwXX0=
 -->
