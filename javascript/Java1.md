@@ -105,17 +105,17 @@ JAVASCRIPT EXERCISE
 "Java" + "Script" -> JavaScript
 " " + " " -> ""
 " " + 0 -> "0"
-true + true -> 
-true + false
-false + true
-false - true
-3 - 4
-"Bob" - "bill"
+true + true -> 2
+true + false ->1
+false + true -> 3
+false - true -> -1
+3 - 4 = -1
+"Bob" - "bill" =NaN
 
 
 //Evaluate the below comparisons:
-5 >= 1
-0 === 1
+5 >= 1 -> true
+0 === 1 -> 
 4 <= 1
 1 != 1
 "A" > "B"
@@ -130,6 +130,6 @@ true != true
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU4NzA3NjIsLTExMTg2OTUzOTUsMT
-QxOTQ4NjU2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzE3NjY4NCwtMTExODY5NTM5NSwxND
+E5NDg2NTYwLDczMDk5ODExNl19
 -->
