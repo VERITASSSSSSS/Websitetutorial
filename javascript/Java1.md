@@ -160,10 +160,11 @@ var a = 34;
 var b = 21;
 a = 2;
 a + b // what is the answer here?
-
+**23**
 
 // What is c equal to?
 var c;
+**undefined**
 
 
 
@@ -198,7 +199,7 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDgzNTMzMCwtMTA2Mjc4NzA3MCwtMT
-kyMDM3NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQxOTQ4
-NjU2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjkyMjM1MDMsLTEwNjI3ODcwNzAsLT
+E5MjAzNzQyNzgsODc3Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MTk0
+ODY1NjAsNzMwOTk4MTE2XX0=
 -->
