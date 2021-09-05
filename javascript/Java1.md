@@ -46,7 +46,13 @@ else
 else if
 <!-- ternary operator -->
 <!-- switch -->
+```java
+var name="Billy"; //Hi Billy
+vcar name="Suzy" //I don't know yo
 
+if(name==="Billy") {alert("Hi Billy");}
+else alert("I don't know you.");
+```
 
 JAVASCRIPT LOGICAL OPERATORS
 -----------------
@@ -219,8 +225,8 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg2NzA5MjYsMTcwNzI4MzUxMiwxMT
-EzNDYzMTk3LDUyODU2MjYzMSwtMTA2Mjc4NzA3MCwtMTkyMDM3
-NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQxOTQ4NjU2MC
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzU1MTY4MTU1LC0xMjg4NjcwOTI2LDE3MD
+cyODM1MTIsMTExMzQ2MzE5Nyw1Mjg1NjI2MzEsLTEwNjI3ODcw
+NzAsLTE5MjAzNzQyNzgsODc3Njc5NDMwLC0xMTE4Njk1Mzk1LD
+E0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
