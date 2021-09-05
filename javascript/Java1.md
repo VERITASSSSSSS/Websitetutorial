@@ -179,23 +179,23 @@ var op= prompt("Select an operation mode(+ - / *): ");
 
 switch(op) {  
 case  '+':  
-alert("The sum is: "Number(first)+Number(second););
+alert("The sum is: "+Number(first)+Number(second));
 break;  
 
 case '-':  
-alert("The sum is: "Number(first)-Number(second););
+alert("The sum is: "+Number(first)-Number(second));
 break; 
 
 case '*':  
-alert("The sum is: "Number(first)*Number(second););
+alert("The sum is: "+Number(first)*Number(second));
 break; 
 
 case '/':  
-alert("The sum is: "Number(first)/Number(second););
+alert("The sum is: "+Number(first)/Number(second));
 break; 
 
 default:  
-alert("Wrong Input")
+alert("Wrong Input");
 }
 ```
 
@@ -220,8 +220,8 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQxNTExNjEsMTExMzQ2MzE5Nyw1Mj
-g1NjI2MzEsLTEwNjI3ODcwNzAsLTE5MjAzNzQyNzgsODc3Njc5
-NDMwLC0xMTE4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbMTcwNzI4MzUxMiwxMTEzNDYzMTk3LDUyOD
+U2MjYzMSwtMTA2Mjc4NzA3MCwtMTkyMDM3NDI3OCw4Nzc2Nzk0
+MzAsLTExMTg2OTUzOTUsMTQxOTQ4NjU2MCw3MzA5OTgxMTZdfQ
+==
 -->
