@@ -148,17 +148,27 @@ true != true ->false
 ## Make a Easy cac
 
 ```java
-var first =prompt("Enter first Number");   
-var second =prompt("Enter second number");
+var first =prompt("Enter first Number");    //34
+var second =prompt("Enter second number");    //55
 
 undefined
 ```
+```java
+var sum = Number(first) + Number(second)
 
-Number(first) + Numbe
+undefined
+```
+```java
+sum 
+69
+```
+
+```java
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NDYxNTAwLC0xOTIwMzc0Mjc4LDg3Nz
-Y3OTQzMCwtMTExODY5NTM5NSwxNDE5NDg2NTYwLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTE0NjMxNjY1ODEsLTE5MjAzNzQyNzgsOD
+c3Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4
+MTE2XX0=
 -->
