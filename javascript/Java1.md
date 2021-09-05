@@ -98,14 +98,14 @@ yield
 JAVASCRIPT EXERCISE
 -----------------
 //Evaluate the below:
-5 + "34" -> 
-5 - "4"
-10 % 5
-5 % 10
-"Java" + "Script"
-" " + " "
-" " + 0
-true + true
+5 + "34" -> 534
+5 - "4" -> 1
+10 % 5 -> 0
+5 % 10 -> 5 
+"Java" + "Script" -> JavaScript
+" " + " " -> ""
+" " + 0 -> "0"
+true + true -> 
 true + false
 false + true
 false - true
@@ -130,6 +130,6 @@ true != true
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTkwODE2MjgsLTExMTg2OTUzOTUsMT
+eyJoaXN0b3J5IjpbLTEyODU4NzA3NjIsLTExMTg2OTUzOTUsMT
 QxOTQ4NjU2MCw3MzA5OTgxMTZdfQ==
 -->
