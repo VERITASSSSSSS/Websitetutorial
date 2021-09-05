@@ -128,10 +128,10 @@ true != true ->false
 
 
 // Make the string: "Hi There! It's "sunny" out" by using the + sign:
-"Hi There! It's "sunny" out" 
+"Hi There!" + "It\'s \"sunny\" out" 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzY1NDU1LC0xMTE4Njk1Mzk1LDE0MT
+eyJoaXN0b3J5IjpbODc3Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MT
 k0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
