@@ -174,6 +174,10 @@ ALL
 ```java
 var first =prompt("Enter first Number");   
 var second =prompt("Enter second number");
+
+var op= prompt("Select an operation mode(+ - / *): ")
+
+
 var sum = Number(first)+Number(second);
 alert("The sum is: "+sum);
 ```
@@ -199,7 +203,7 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NTYyNjMxLC0xMDYyNzg3MDcwLC0xOT
-IwMzc0Mjc4LDg3NzY3OTQzMCwtMTExODY5NTM5NSwxNDE5NDg2
-NTYwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTQ0ODIxNzI4OCw1Mjg1NjI2MzEsLTEwNj
+I3ODcwNzAsLTE5MjAzNzQyNzgsODc3Njc5NDMwLC0xMTE4Njk1
+Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
