@@ -121,7 +121,8 @@ false - true -> -1
 "A" > "B" -> false
 "B" < "C" -> true
  **"a" > "A" -> false 
-"b" < "A" -> true**
+"b" < "A" -> false
+( a<A {lowercase< UPPERCASE})**
 true === false
 true != true
 
@@ -130,6 +131,6 @@ true != true
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODc5NzEwNCwtMTExODY5NTM5NSwxND
-E5NDg2NTYwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzMzMjM3Mzc1LC0xMTE4Njk1Mzk1LDE0MT
+k0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
