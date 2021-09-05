@@ -147,7 +147,10 @@ true != true ->false
 
 // add variable "firstName" and "lastName" // so that they equal your name
 ```java
-
+var firstName = "Patricia"
+var lastName = "Kuo"
+var fullName = firstName + lastName
+alert("My names is " + fullName )
 ```
 
 // create a variable that holds the answer // of "firstName" + " " + "lastName"
@@ -157,6 +160,7 @@ var a = 34;
 var b = 21;
 a = 2;
 a + b // what is the answer here?
+
 
 // What is c equal to?
 var c;
@@ -194,7 +198,7 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzA1MzQwMywtMTA2Mjc4NzA3MCwtMT
+eyJoaXN0b3J5IjpbMTg3MDgzNTMzMCwtMTA2Mjc4NzA3MCwtMT
 kyMDM3NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQxOTQ4
 NjU2MCw3MzA5OTgxMTZdfQ==
 -->
