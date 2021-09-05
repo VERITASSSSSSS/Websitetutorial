@@ -65,17 +65,26 @@ grid-template-columns: repeat(3);
 	<img src="https://user-images.githubusercontent.com/68550874/130948834-bcaee634-ce16-4dc6-b015-2d1b2e009bb5.png" width="150" height="150"/>
 	</div>
 	
-
-
-
+## Make Sticky Nav
+```html
+<nav class="zone green sticky">
+```
+```css 
+.sticky{
+position: fixed;
+top: 0;
+width: 100%;
+}
+```
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMTM2MjczLDk3MTc1Mjc2NywtMTk4ND
-gxNzc0MCwtMTIzNTgyNDY0LC0xOTU5Njc4MDA5LDc5NTg4NDg4
-NywyMDQxNzgyMDk3LC0yODU2ODcxMTIsMzM1ODA4NTk3LDQ4Nj
-E4ODUzMCwtMzk3NDMzMzMzLC0xNjczMDA3OTE3LDU1NDQzODY5
-MywtNDczNTMyNjE5LDEwOTc1Njc5MDIsLTg1NzQ4MTM0MF19
+eyJoaXN0b3J5IjpbMzgxMTEzNjg3LDU5MzEzNjI3Myw5NzE3NT
+I3NjcsLTE5ODQ4MTc3NDAsLTEyMzU4MjQ2NCwtMTk1OTY3ODAw
+OSw3OTU4ODQ4ODcsMjA0MTc4MjA5NywtMjg1Njg3MTEyLDMzNT
+gwODU5Nyw0ODYxODg1MzAsLTM5NzQzMzMzMywtMTY3MzAwNzkx
+Nyw1NTQ0Mzg2OTMsLTQ3MzUzMjYxOSwxMDk3NTY3OTAyLC04NT
+c0ODEzNDBdfQ==
 -->
