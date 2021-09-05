@@ -22,6 +22,7 @@ JAVASCRIPT VARIABLES
 -----------------
 var
 ```java 
+INPUT:
 var George ="These pretzels are making me hungry."
 
 OUTPUT
@@ -146,6 +147,6 @@ true != true ->false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTIxMjE4NCw4Nzc2Nzk0MzAsLTExMT
-g2OTUzOTUsMTQxOTQ4NjU2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjAzNzQyNzgsODc3Njc5NDMwLC0xMT
+E4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
