@@ -115,13 +115,13 @@ false - true -> -1
 
 //Evaluate the below comparisons:
 5 >= 1 -> true
-0 === 1 -> 
-4 <= 1
-1 != 1
-"A" > "B"
-"B" < "C"
-"a" > "A"
-"b" < "A"
+0 === 1 -> falsee
+4 <= 1 => false
+1 != 1 -> false
+"A" > "B" -> false
+"B" < "C" -> true
+ **"a" > "A" -> false 
+"b" < "A" -> true**
 true === false
 true != true
 
@@ -130,6 +130,6 @@ true != true
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE3NjY4NCwtMTExODY5NTM5NSwxND
+eyJoaXN0b3J5IjpbLTk0ODc5NzEwNCwtMTExODY5NTM5NSwxND
 E5NDg2NTYwLDczMDk5ODExNl19
 -->
