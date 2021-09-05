@@ -61,7 +61,7 @@ JAVASCRIPT LOGICAL OPERATORS
 &&
 ||
 !
-```java
+```java 
 var name="Ann"
 if(name==="Billy"||name==="Ann"){alert("Hi "+ name)}
 ```
@@ -230,8 +230,8 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQyNzI5NTYsLTEyODg2NzA5MjYsMT
-cwNzI4MzUxMiwxMTEzNDYzMTk3LDUyODU2MjYzMSwtMTA2Mjc4
-NzA3MCwtMTkyMDM3NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOT
-UsMTQxOTQ4NjU2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjcwODg3MTEwLC0xMTg0MjcyOTU2LC0xMj
+g4NjcwOTI2LDE3MDcyODM1MTIsMTExMzQ2MzE5Nyw1Mjg1NjI2
+MzEsLTEwNjI3ODcwNzAsLTE5MjAzNzQyNzgsODc3Njc5NDMwLC
+0xMTE4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
