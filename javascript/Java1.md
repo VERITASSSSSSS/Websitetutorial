@@ -20,7 +20,7 @@ JAVASCRIPT COMPARISONS
 
 JAVASCRIPT VARIABLES
 -----------------
-var
+`var`
 ```java 
 INPUT:
 var George ="These pretzels are making me hungry."
@@ -36,8 +36,8 @@ OUTPUT:
 "These pretzels are making me hungry."
 ```
 
-<!-- let (new in ECMAScript 6)-->  
-<!-- const (new in ECMAScript 6)-->
+` let `
+`const `
 
 JAVASCRIPT CONDITIONALS
 -----------------
@@ -230,8 +230,9 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwODg3MTEwLC0xMTg0MjcyOTU2LC0xMj
-g4NjcwOTI2LDE3MDcyODM1MTIsMTExMzQ2MzE5Nyw1Mjg1NjI2
-MzEsLTEwNjI3ODcwNzAsLTE5MjAzNzQyNzgsODc3Njc5NDMwLC
-0xMTE4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTE4NDY0MDMyLDY3MDg4NzExMCwtMTE4ND
+I3Mjk1NiwtMTI4ODY3MDkyNiwxNzA3MjgzNTEyLDExMTM0NjMx
+OTcsNTI4NTYyNjMxLC0xMDYyNzg3MDcwLC0xOTIwMzc0Mjc4LD
+g3NzY3OTQzMCwtMTExODY5NTM5NSwxNDE5NDg2NTYwLDczMDk5
+ODExNl19
 -->
