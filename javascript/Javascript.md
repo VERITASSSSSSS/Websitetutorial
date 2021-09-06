@@ -74,7 +74,14 @@ undefined
 
 ### **-   What are the different types of operators in JavaScript?**
 ### **-   What is the difference between  `==`  and  `===`?**
-	Check Equality
+- Abstract Equality Comparison (==) 
+		automatically convert the types of the two values behind the scenes and only then will it make the actual comparison check
+
+- Strict Equality Comparison (===)
+- 
+Check Equality
+
+'2'==2 -> True
 
 
 ### **-   What are operator precedence values?**
@@ -85,5 +92,5 @@ undefined
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMzQwNDYyXX0=
+eyJoaXN0b3J5IjpbNzQ1MjAwNTA1XX0=
 -->
