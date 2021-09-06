@@ -74,12 +74,15 @@ undefined
 
 ### **-   What are the different types of operators in JavaScript?**
 ### **-   What is the difference between  `==`  and  `===`?**
-- Abstract Equality Comparison (==) 
-		automatically convert the types of the two values behind the scenes and only then will it make the actual comparison check
 
-- Strict Equality Comparison (===)
-- 
 Check Equality
+Go with ===
+
+- **Abstract** Equality Comparison (==) 
+	- automatically convert the types of the two values behind the scenes and only then will it make the actual comparison check
+
+- **Strict** Equality Comparison (===)
+	 - take data type into account, meaning a String will never be equal to a Number.
 
 '2'==2 -> True
 
@@ -92,5 +95,5 @@ Check Equality
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1MjAwNTA1XX0=
+eyJoaXN0b3J5IjpbLTE1MDUyMDkwNzJdfQ==
 -->
