@@ -96,8 +96,13 @@ Go with ===
 
 -   Unary minus (`-`) – convert an operand into a number and negate the value after that.
 
+```java
+let a = 10; 
+a = +a; // 10 
+a = -a; // -10
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MTkzNjc2XX0=
+eyJoaXN0b3J5IjpbMTE4MTI3MDkyXX0=
 -->
