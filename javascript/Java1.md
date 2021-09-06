@@ -37,6 +37,17 @@ OUTPUT:
 ```
 
 ` let `
+
+Declare a variable with the name "message"
+```java
+let message;
+```
+
+String is saved into memory 
+```java
+let message;  
+message = 'Hello'; // store the string 'Hello' in the variable named message_
+```
 `const `
 
 JAVASCRIPT CONDITIONALS
@@ -230,9 +241,9 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NDY0MDMyLDY3MDg4NzExMCwtMTE4ND
-I3Mjk1NiwtMTI4ODY3MDkyNiwxNzA3MjgzNTEyLDExMTM0NjMx
-OTcsNTI4NTYyNjMxLC0xMDYyNzg3MDcwLC0xOTIwMzc0Mjc4LD
-g3NzY3OTQzMCwtMTExODY5NTM5NSwxNDE5NDg2NTYwLDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbLTEyODMzMjM5MTAsNjcwODg3MTEwLC0xMT
+g0MjcyOTU2LC0xMjg4NjcwOTI2LDE3MDcyODM1MTIsMTExMzQ2
+MzE5Nyw1Mjg1NjI2MzEsLTEwNjI3ODcwNzAsLTE5MjAzNzQyNz
+gsODc3Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MTk0ODY1NjAsNzMw
+OTk4MTE2XX0=
 -->
