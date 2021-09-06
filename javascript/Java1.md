@@ -190,6 +190,24 @@ a + b // what is the answer here?
 var c;
 **undefined**
 
+Name the eight data types in JavaScript.
+
+Understand the difference between single, double, and backtick quotes.
+
+Embed a variable/expression in a string.
+
+Define what a method is.
+
+Name the three logical operators.
+
+Understand what the comparison operators are.
+
+Understand what conditionals are.
+
+Understand what nesting is.
+
+Understand what truthy and falsy values are.
+
 
 
 ## Make a Easy cac
@@ -243,9 +261,9 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODg1MTAyMyw2NzA4ODcxMTAsLTExOD
-QyNzI5NTYsLTEyODg2NzA5MjYsMTcwNzI4MzUxMiwxMTEzNDYz
-MTk3LDUyODU2MjYzMSwtMTA2Mjc4NzA3MCwtMTkyMDM3NDI3OC
-w4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQxOTQ4NjU2MCw3MzA5
-OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQxMjY3OTEsMTgwODg1MTAyMyw2Nz
+A4ODcxMTAsLTExODQyNzI5NTYsLTEyODg2NzA5MjYsMTcwNzI4
+MzUxMiwxMTEzNDYzMTk3LDUyODU2MjYzMSwtMTA2Mjc4NzA3MC
+wtMTkyMDM3NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQx
+OTQ4NjU2MCw3MzA5OTgxMTZdfQ==
 -->
