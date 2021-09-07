@@ -10,15 +10,22 @@
 
 2.  Write a function called  `multiply`  that takes 2 numbers and returns their product.
 
+```java
+function  multiply(){
+let num1 =  prompt("Enter the first number: ");
+let num2 =  prompt("Enter the second number: ");
+alert("Your number is "+num1*num2);
+}
+```
 
-3.  Write a function called  `capitalize`  that takes a string and returns that string with  _only_  the first letter capitalized. Make sure that it can take strings that are lowercase, UPPERCASE or BoTh.
+4.  Write a function called  `capitalize`  that takes a string and returns that string with  _only_  the first letter capitalized. Make sure that it can take strings that are lowercase, UPPERCASE or BoTh.
 
 
-4.  Write a function called  `lastLetter`  that takes a string and returns the very last letter of that string:
+5.  Write a function called  `lastLetter`  that takes a string and returns the very last letter of that string:
 
-5.  `lastLetter("abcd")`  should return  `"d"`
+6.  `lastLetter("abcd")`  should return  `"d"`
 
-6. Make a keyless car
+7. Make a keyless car
 	```java
 	var age =  prompt("How old are you?");
 	if(Number(age)<18){
@@ -30,6 +37,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjgzOTYwMzMsMTc0NDIwNzEzOSwtOT
-IyNjQ4MjI3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTExMjUyMDk3NDEsLTEwMjgzOTYwMzMsMT
+c0NDIwNzEzOSwtOTIyNjQ4MjI3LDczMDk5ODExNl19
 -->
