@@ -30,6 +30,12 @@ alert("Your number is "+num1*num2);
 
 5.  Write a function called  `lastLetter`  that takes a string and returns the very last letter of that string:
 
+	```java
+	function  lastLetter(string) {
+	return string.slice(-1);
+	}
+	console.log(lastLetter('gRaCiouS'));
+	```
 
 
 6.  `lastLetter("abcd")`  should return  `"d"`
@@ -46,7 +52,7 @@ alert("Your number is "+num1*num2);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTY0MTUzNiwtMTEyNTIwOTc0MSwtMT
-AyODM5NjAzMywxNzQ0MjA3MTM5LC05MjI2NDgyMjcsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbMTExMTk5MTU0MiwtNDg5NjQxNTM2LC0xMT
+I1MjA5NzQxLC0xMDI4Mzk2MDMzLDE3NDQyMDcxMzksLTkyMjY0
+ODIyNyw3MzA5OTgxMTZdfQ==
 -->
