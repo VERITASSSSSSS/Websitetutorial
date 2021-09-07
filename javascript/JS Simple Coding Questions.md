@@ -1,6 +1,13 @@
 # The Odin Project 
 1.  Write a function called  `add7`  that takes one number and returns that number + 7.
-
+	```java
+	function  add7(){
+	let num =  prompt("Enter a number: ");
+	alert(Number(num)+7);19
+	}
+	add7();
+	```
+  
 
 2.  Write a function called  `multiply`  that takes 2 numbers and returns their product.
 
@@ -24,6 +31,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTY2NzUyNiwxNzQ0MjA3MTM5LC05Mj
-I2NDgyMjcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MzkxNTY3MTksMTc0NDIwNzEzOSwtOT
+IyNjQ4MjI3LDczMDk5ODExNl19
 -->
