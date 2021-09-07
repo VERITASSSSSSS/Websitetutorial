@@ -7,7 +7,8 @@
 	}
 	add7();
 	```
-
+	**Number(num)+7**
+	
 2.  Write a function called  `multiply`  that takes 2 numbers and returns their product.
 
 ```java
@@ -59,7 +60,7 @@ alert("Your number is "+num1*num2);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkzMDYzMTEsMTE0MDAwNTYyNywtND
-g5NjQxNTM2LC0xMTI1MjA5NzQxLC0xMDI4Mzk2MDMzLDE3NDQy
-MDcxMzksLTkyMjY0ODIyNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU3MjEzOTc1NywxMTQwMDA1NjI3LC00OD
+k2NDE1MzYsLTExMjUyMDk3NDEsLTEwMjgzOTYwMzMsMTc0NDIw
+NzEzOSwtOTIyNjQ4MjI3LDczMDk5ODExNl19
 -->
