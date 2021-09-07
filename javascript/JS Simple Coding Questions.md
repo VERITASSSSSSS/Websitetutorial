@@ -37,8 +37,13 @@ alert("Your number is "+num1*num2);
 	console.log(lastLetter('gRaCiouS'));
 	```
 
-
 6.  `lastLetter("abcd")`  should return  `"d"`
+	```java
+	function  lastLetter(string) {
+	return string.slice(-1);
+	}
+	console.log(lastLetter('abcd'));
+	```
 
 7. Make a keyless car
 	```java
@@ -52,7 +57,7 @@ alert("Your number is "+num1*num2);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTk5MTU0MiwtNDg5NjQxNTM2LC0xMT
+eyJoaXN0b3J5IjpbMTE0MDAwNTYyNywtNDg5NjQxNTM2LC0xMT
 I1MjA5NzQxLC0xMDI4Mzk2MDMzLDE3NDQyMDcxMzksLTkyMjY0
 ODIyNyw3MzA5OTgxMTZdfQ==
 -->
