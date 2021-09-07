@@ -19,17 +19,18 @@ alert("Your number is "+num1*num2);
 ```
 
 4.  Write a function called  `capitalize`  that takes a string and returns that string with  _only_  the first letter capitalized. Make sure that it can take strings that are lowercase, UPPERCASE or BoTh.
-```java
-function  capitalize(string) {
+	```java
+	function  capitalize(string) {
 
-const lower = string.toLowerCase();
-returnstring.charAt(0).toUpperCase() + lower.slice(1);
-
-}
-console.log(capitalize('gRaCiouS'));
-```
+	const lower = string.toLowerCase();
+	return string.charAt(0).toUpperCase() + lower.slice(1);
+	}
+	console.log(capitalize('gRaCiouS'));
+	```
 
 5.  Write a function called  `lastLetter`  that takes a string and returns the very last letter of that string:
+
+
 
 6.  `lastLetter("abcd")`  should return  `"d"`
 
@@ -45,7 +46,7 @@ console.log(capitalize('gRaCiouS'));
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUxMjExMjgsLTExMjUyMDk3NDEsLT
-EwMjgzOTYwMzMsMTc0NDIwNzEzOSwtOTIyNjQ4MjI3LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbLTQ4OTY0MTUzNiwtMTEyNTIwOTc0MSwtMT
+AyODM5NjAzMywxNzQ0MjA3MTM5LC05MjI2NDgyMjcsNzMwOTk4
+MTE2XX0=
 -->
