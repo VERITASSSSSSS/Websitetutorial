@@ -11,13 +11,13 @@
 	
 2.  Write a function called  `multiply`  that takes 2 numbers and returns their product.
 
-```java
-function  multiply(){
-let num1 =  prompt("Enter the first number: ");
-let num2 =  prompt("Enter the second number: ");
-alert("Your number is "+num1*num2);
-}
-```
+	```java
+	function  multiply(){
+	let num1 =  prompt("Enter the first number: ");
+	let num2 =  prompt("Enter the second number: ");
+	alert("Your number is "+num1*num2);
+	}
+	```
 
 4.  Write a function called  `capitalize`  that takes a string and returns that string with  _only_  the first letter capitalized. Make sure that it can take strings that are lowercase, UPPERCASE or BoTh.
 	```java
@@ -60,7 +60,7 @@ alert("Your number is "+num1*num2);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjEzOTc1NywxMTQwMDA1NjI3LC00OD
+eyJoaXN0b3J5IjpbLTQ0NzU1MDg0MywxMTQwMDA1NjI3LC00OD
 k2NDE1MzYsLTExMjUyMDk3NDEsLTEwMjgzOTYwMzMsMTc0NDIw
 NzEzOSwtOTIyNjQ4MjI3LDczMDk5ODExNl19
 -->
