@@ -7,7 +7,6 @@
 	}
 	add7();
 	```
-  
 
 2.  Write a function called  `multiply`  that takes 2 numbers and returns their product.
 
@@ -31,6 +30,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkxNTY3MTksMTc0NDIwNzEzOSwtOT
+eyJoaXN0b3J5IjpbLTEwMjgzOTYwMzMsMTc0NDIwNzEzOSwtOT
 IyNjQ4MjI3LDczMDk5ODExNl19
 -->
