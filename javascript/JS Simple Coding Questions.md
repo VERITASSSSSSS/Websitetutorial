@@ -27,6 +27,7 @@ alert("Your number is "+num1*num2);
 	}
 	console.log(capitalize('gRaCiouS'));
 	```
+	**string.charAt(0).toUpperCase() + lower.slice(1);**
 
 5.  Write a function called  `lastLetter`  that takes a string and returns the very last letter of that string:
 
@@ -44,6 +45,7 @@ alert("Your number is "+num1*num2);
 	}
 	console.log(lastLetter('abcd'));
 	```
+	**string.slice(-1)**
 
 7. Make a keyless car
 	```java
@@ -57,7 +59,7 @@ alert("Your number is "+num1*num2);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDAwNTYyNywtNDg5NjQxNTM2LC0xMT
-I1MjA5NzQxLC0xMDI4Mzk2MDMzLDE3NDQyMDcxMzksLTkyMjY0
-ODIyNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTkzMDYzMTEsMTE0MDAwNTYyNywtND
+g5NjQxNTM2LC0xMTI1MjA5NzQxLC0xMDI4Mzk2MDMzLDE3NDQy
+MDcxMzksLTkyMjY0ODIyNyw3MzA5OTgxMTZdfQ==
 -->
