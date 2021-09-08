@@ -58,37 +58,25 @@
 	else  alert("Powering On. Enjoy the ride!");
 	```
 	8. Im a way better keyless car
-		```java
-		
-		var  checkAge=function(){
-
-	var  age  =  prompt("What is your age?");
-
+	```java
+	var checkAge=function(){
+	
+	var age  =  prompt("What is your age?");
 	if (Number(age) <  18) {
-
 	alert("Sorry, you are too yound to drive this car. Powering off");
-
 	} else  if (Number(age) >  18) {
-
 	alert("Powering On. Enjoy the ride!");
-
 	} else  if (Number(age) ===  18) {
-
 	alert("Congratulations on your first year of driving. Enjoy the ride!");
-
-	}
-
-	}
-
-	  
-
+	}}
+ 
 	checkAge();
-		```
+	```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY2ODU1NzMsLTIxNDMxMTU1NSwtND
-Q3NTUwODQzLDExNDAwMDU2MjcsLTQ4OTY0MTUzNiwtMTEyNTIw
-OTc0MSwtMTAyODM5NjAzMywxNzQ0MjA3MTM5LC05MjI2NDgyMj
-csNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU2OTQ5MDU2NSwtMjE0MzExNTU1LC00ND
+c1NTA4NDMsMTE0MDAwNTYyNywtNDg5NjQxNTM2LC0xMTI1MjA5
+NzQxLC0xMDI4Mzk2MDMzLDE3NDQyMDcxMzksLTkyMjY0ODIyNy
+w3MzA5OTgxMTZdfQ==
 -->
