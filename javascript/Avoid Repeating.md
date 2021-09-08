@@ -17,9 +17,18 @@ var  total  =  multiply(4,5);
 alert(total);
 ```
 //add argument to avoid repeating
+```java
+var functionList = [function apple(){
+console.log("apple");
+}]
+undefined
 
+functionList
+[ƒ]
+0: ƒ apple()length: 1[[Prototype]]: Array(0)
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTI3ODE0MCw1MzkyMDU2MjldfQ==
+eyJoaXN0b3J5IjpbMTgyOTE2Njk0Niw1MzkyMDU2MjldfQ==
 -->
