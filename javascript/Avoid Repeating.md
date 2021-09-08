@@ -122,11 +122,18 @@ the current Array i.e. ['a', 'c', 'b'] becomes ['b', 'c', 'a'])
 ["Kiwi", "Oranges", "Blueberries"]
 
 using this array,
+```java
 var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 // access "Oranges".
+var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
+undefined
+array2[1][1][0]
+"Oranges"
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDUzOTc5OSwtMzQzNjIyNjA1LDgyMj
-EyNDQ1NSwtMTMyNTE3MjM4Miw1MzkyMDU2MjldfQ==
+eyJoaXN0b3J5IjpbNTgzNTg4ODE0LDE1OTA1Mzk3OTksLTM0Mz
+YyMjYwNSw4MjIxMjQ0NTUsLTEzMjUxNzIzODIsNTM5MjA1NjI5
+XX0=
 -->
