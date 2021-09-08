@@ -113,10 +113,9 @@ myNewList
 6. Sort the array in reverse order. (Not alphabetical, but reverse
 the current Array i.e. ['a', 'c', 'b'] becomes ['b', 'c', 'a'])
 	 ```java
-	 array.shift();
-	 "Banana"
-
-	(3) ["Apples", "Oranges", "Blueberries"]
+	 array.reverse()
+	 
+	(3) ["Kiwi", "Oranges", "Blueberries"]
 	 ```
 
 //you should have at the end:
@@ -128,6 +127,6 @@ var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjYyMDQzNCwtMzQzNjIyNjA1LDgyMj
+eyJoaXN0b3J5IjpbMTU5MDUzOTc5OSwtMzQzNjIyNjA1LDgyMj
 EyNDQ1NSwtMTMyNTE3MjM4Miw1MzkyMDU2MjldfQ==
 -->
