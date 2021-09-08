@@ -63,14 +63,20 @@ var myList =["cat", "elephant", "bee", "deer"]
 undefined
 ```
 var myNewList = myList.concat(["monkey"]);
+```
 undefined
+```
 myList
+```
 (4) ["cat", "elephant", "bee", "deer"]
+```
 myNewList
+```
 (5) ["cat", "elephant", "bee", "deer", "monkey"]
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcyMjY1MjMsLTEzMjUxNzIzODIsNT
-M5MjA1NjI5XX0=
+eyJoaXN0b3J5IjpbOTczMzM4MzM3LC0xMzI1MTcyMzgyLDUzOT
+IwNTYyOV19
 -->
