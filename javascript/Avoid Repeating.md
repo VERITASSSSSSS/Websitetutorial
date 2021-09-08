@@ -27,8 +27,35 @@ console.log("apple");
 [ƒ]
 0: ƒ apple()length: 1[[Prototype]]: Array(0)
 ```
+## How arrays work
+```var  list  = ["bear","cat", "duck"];```
+list
+```
+(3) ["bear", "cat", "duck"]
+```
+list.pop();
+```
+"duck"
+```
+list.shift();
+```
+"bear"
+```
+list;
+```
+["cat"]
+```
+list.push("elephant");
+```
+2
+```
+list
+```
+(2) ["cat", "elephant"]
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUxNzIzODIsNTM5MjA1NjI5XX0=
+eyJoaXN0b3J5IjpbLTI2NTY3NTc4OCwtMTMyNTE3MjM4Miw1Mz
+kyMDU2MjldfQ==
 -->
