@@ -53,9 +53,13 @@ list
 ```
 (2) ["cat", "elephant"]
 ```
+list.concat(["bee","deer"])
+```
+(4) ["cat", "elephant", "bee", "deer"]
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTY3NTc4OCwtMTMyNTE3MjM4Miw1Mz
+eyJoaXN0b3J5IjpbMjAxNTIzNTM5MywtMTMyNTE3MjM4Miw1Mz
 kyMDU2MjldfQ==
 -->
