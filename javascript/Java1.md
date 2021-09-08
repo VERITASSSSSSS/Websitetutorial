@@ -14,7 +14,8 @@ JAVASCRIPT TYPES
 9. **Parameters**
 	 ```java 
 	function  multiply(im a parameter){
-	return  a*b;)
+	return  a*b;
+	}
 	```
 
 JAVASCRIPT COMPARISONS
@@ -270,7 +271,7 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTgzMjU5MiwtNjU2NDI3MzIxLC0yMD
+eyJoaXN0b3J5IjpbMjEzOTAzMTExMCwtNjU2NDI3MzIxLC0yMD
 k0MTI2NzkxLDE4MDg4NTEwMjMsNjcwODg3MTEwLC0xMTg0Mjcy
 OTU2LC0xMjg4NjcwOTI2LDE3MDcyODM1MTIsMTExMzQ2MzE5Ny
 w1Mjg1NjI2MzEsLTEwNjI3ODcwNzAsLTE5MjAzNzQyNzgsODc3
