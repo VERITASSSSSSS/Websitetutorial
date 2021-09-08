@@ -6,7 +6,11 @@ JAVASCRIPT TYPES
 4. Undefined
 5. Null
  6. Symbol (new in ECMAScript 6) 
-7. Object
+6. Object
+7. Arguments 
+ ```java 
+ console.log(Im an argument)
+```
 
 JAVASCRIPT COMPARISONS
 -----------------
@@ -261,9 +265,9 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQxMjY3OTEsMTgwODg1MTAyMyw2Nz
-A4ODcxMTAsLTExODQyNzI5NTYsLTEyODg2NzA5MjYsMTcwNzI4
-MzUxMiwxMTEzNDYzMTk3LDUyODU2MjYzMSwtMTA2Mjc4NzA3MC
-wtMTkyMDM3NDI3OCw4Nzc2Nzk0MzAsLTExMTg2OTUzOTUsMTQx
-OTQ4NjU2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDI3ODQ4MDc3LC0yMDk0MTI2NzkxLDE4MD
+g4NTEwMjMsNjcwODg3MTEwLC0xMTg0MjcyOTU2LC0xMjg4Njcw
+OTI2LDE3MDcyODM1MTIsMTExMzQ2MzE5Nyw1Mjg1NjI2MzEsLT
+EwNjI3ODcwNzAsLTE5MjAzNzQyNzgsODc3Njc5NDMwLC0xMTE4
+Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MTE2XX0=
 -->
