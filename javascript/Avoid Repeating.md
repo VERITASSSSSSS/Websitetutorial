@@ -80,21 +80,44 @@ myNewList
 ```
 ## Practice
 1. Remove the Banana from the array.
- ```java
- array.shift();
- "Banana"
+	 ```java
+	 array.shift();
+	 "Banana"
 
-(3) ["Apples", "Oranges", "Blueberries"]
- ```
+	(3) ["Apples", "Oranges", "Blueberries"]
+	 ```
 
-3. Sort the array in order.
+2. Sort the array in order.
+	 ```java
+	 array.sort();
+	 
+	(3) ["Apples", "Blueberries", "Oranges"]
+	 ```
 
-4. Put "Kiwi" at the end of the array.
+3. Put "Kiwi" at the end of the array.
+	 ```java
+	 array.shift();
+	 "Banana"
 
-5. Remove "Apples" from the array.
+	(3) ["Apples", "Oranges", "Blueberries"]
+	 ```
+
+4. Remove "Apples" from the array.
+	 ```java
+	 array.shift();
+	 "Banana"
+
+	(3) ["Apples", "Oranges", "Blueberries"]
+	 ```
 
 6. Sort the array in reverse order. (Not alphabetical, but reverse
 the current Array i.e. ['a', 'c', 'b'] becomes ['b', 'c', 'a'])
+	 ```java
+	 array.shift();
+	 "Banana"
+
+	(3) ["Apples", "Oranges", "Blueberries"]
+	 ```
 
 //you should have at the end:
 ["Kiwi", "Oranges", "Blueberries"]
@@ -105,6 +128,6 @@ var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTEyMzExMSw4MjIxMjQ0NTUsLTEzMj
+eyJoaXN0b3J5IjpbLTM0MzYyMjYwNSw4MjIxMjQ0NTUsLTEzMj
 UxNzIzODIsNTM5MjA1NjI5XX0=
 -->
