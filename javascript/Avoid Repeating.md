@@ -62,7 +62,7 @@ var myList =["cat", "elephant", "bee", "deer"]
 ```
 undefined
 ```
-var myNewList = myList.concat(["monkey"]);
+var myNewList = myList.concat(["monkey"]); **gotta define**
 ```
 undefined
 ```
@@ -77,6 +77,6 @@ myNewList
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMzM4MzM3LC0xMzI1MTcyMzgyLDUzOT
-IwNTYyOV19
+eyJoaXN0b3J5IjpbMTA2Mzk1MDI5MywtMTMyNTE3MjM4Miw1Mz
+kyMDU2MjldfQ==
 -->
