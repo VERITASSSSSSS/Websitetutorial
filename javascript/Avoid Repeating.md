@@ -96,18 +96,18 @@ myNewList
 
 3. Put "Kiwi" at the end of the array.
 	 ```java
-	 array.shift();
-	 "Banana"
+	 array.push("Kiwi");
+	4
 
-	(3) ["Apples", "Oranges", "Blueberries"]
+	(4) ["Apples", "Blueberries", "Oranges", "Kiwi"]
 	 ```
 
 4. Remove "Apples" from the array.
 	 ```java
 	 array.shift();
-	 "Banana"
+	"Apples"
 
-	(3) ["Apples", "Oranges", "Blueberries"]
+	(3) ["Blueberries", "Oranges", "Kiwi"]
 	 ```
 
 6. Sort the array in reverse order. (Not alphabetical, but reverse
@@ -128,6 +128,6 @@ var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzYyMjYwNSw4MjIxMjQ0NTUsLTEzMj
-UxNzIzODIsNTM5MjA1NjI5XX0=
+eyJoaXN0b3J5IjpbMTAwNjYyMDQzNCwtMzQzNjIyNjA1LDgyMj
+EyNDQ1NSwtMTMyNTE3MjM4Miw1MzkyMDU2MjldfQ==
 -->
