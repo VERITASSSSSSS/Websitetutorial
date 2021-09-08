@@ -7,11 +7,11 @@ JAVASCRIPT TYPES
 5. Null
 6. Symbol (new in ECMAScript 6) 
 7. Object
-8. Arguments 
+8. **Arguments** 
 	 ```java 
 	 console.log(Im an argument)
 	```
-9. Parameters
+9. **Parameters**
 	 ```java 
 	function  multiply(im a parameter){
 	return  a*b;)
@@ -270,10 +270,10 @@ sum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODYwOTc5MywtNjU2NDI3MzIxLC0yMD
-k0MTI2NzkxLDE4MDg4NTEwMjMsNjcwODg3MTEwLC0xMTg0Mjcy
-OTU2LC0xMjg4NjcwOTI2LDE3MDcyODM1MTIsMTExMzQ2MzE5Ny
-w1Mjg1NjI2MzEsLTEwNjI3ODcwNzAsLTE5MjAzNzQyNzgsODc3
-Njc5NDMwLC0xMTE4Njk1Mzk1LDE0MTk0ODY1NjAsNzMwOTk4MT
-E2XX0=
+eyJoaXN0b3J5IjpbLTIwOTA2NjkzMTEsLTY1NjQyNzMyMSwtMj
+A5NDEyNjc5MSwxODA4ODUxMDIzLDY3MDg4NzExMCwtMTE4NDI3
+Mjk1NiwtMTI4ODY3MDkyNiwxNzA3MjgzNTEyLDExMTM0NjMxOT
+csNTI4NTYyNjMxLC0xMDYyNzg3MDcwLC0xOTIwMzc0Mjc4LDg3
+NzY3OTQzMCwtMTExODY5NTM5NSwxNDE5NDg2NTYwLDczMDk5OD
+ExNl19
 -->
