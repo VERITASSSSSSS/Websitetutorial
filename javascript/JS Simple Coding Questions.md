@@ -74,7 +74,7 @@
 	```
 	9. Use only console.log()
 	```java
-	var  checkAge=function(age){
+	var checkAge=function(age){
 
 	console.log("How old r u?")
 	if (Number(age) <  18) {
@@ -89,8 +89,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MDgzNTcyLDE1Njk0OTA1NjUsLTIxND
-MxMTU1NSwtNDQ3NTUwODQzLDExNDAwMDU2MjcsLTQ4OTY0MTUz
-NiwtMTEyNTIwOTc0MSwtMTAyODM5NjAzMywxNzQ0MjA3MTM5LC
-05MjI2NDgyMjcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk4MTI2MTk1MiwxNTY5NDkwNTY1LC0yMT
+QzMTE1NTUsLTQ0NzU1MDg0MywxMTQwMDA1NjI3LC00ODk2NDE1
+MzYsLTExMjUyMDk3NDEsLTEwMjgzOTYwMzMsMTc0NDIwNzEzOS
+wtOTIyNjQ4MjI3LDczMDk5ODExNl19
 -->
