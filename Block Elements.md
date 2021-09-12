@@ -12,7 +12,13 @@
 
 #  inline-block
 
-
+```css
+.inline-block-element {
+  display: inline-block;
+  width: 1000px; /* ✅  yes, it will work */
+  height: 1000px; /* ✅  yes, it will work */
+}
+```
 
 # Block-level Elements
 
@@ -31,5 +37,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTE3NzQxMSwtMjY4NTU4NDM4XX0=
+eyJoaXN0b3J5IjpbMTc5MDMzNjA0MSwtMjY4NTU4NDM4XX0=
 -->
