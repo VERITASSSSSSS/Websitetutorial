@@ -1,3 +1,10 @@
+#  Inline
+
+> Displays an element as an inline element. Any height and width properties will have no effect.
+
+
+
+
 # Block-level Elements
 
 * **Full-width** by default
@@ -15,5 +22,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODU1ODQzOF19
+eyJoaXN0b3J5IjpbNTc5ODY5MDE5LC0yNjg1NTg0MzhdfQ==
 -->
