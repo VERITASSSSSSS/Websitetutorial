@@ -27,6 +27,8 @@
 > Check the length of the string.
 > Take up the whole width
 
+https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/#a-inline
+
 # Block-level Elements
 
 * **Full-width** by default
@@ -46,5 +48,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzczNDM3NDMsLTI2ODU1ODQzOF19
+eyJoaXN0b3J5IjpbLTg1MzIxMzUwNywtMjY4NTU4NDM4XX0=
 -->
