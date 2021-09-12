@@ -1,4 +1,4 @@
-#  Inline
+#  inline
 
 > Displays an element as an inline element. Any height and width properties will have no effect.
 
@@ -10,6 +10,7 @@
 }
 ```
 
+#  inline-block
 
 
 
@@ -30,5 +31,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc1OTkxNzksLTI2ODU1ODQzOF19
+eyJoaXN0b3J5IjpbLTY1MTE3NzQxMSwtMjY4NTU4NDM4XX0=
 -->
