@@ -12,13 +12,20 @@
 
 #  inline-block
 
+> Displays an element as an inline-level block container. You CAN set height and width values.
+
 ```css
-	.inline-block-element {
-	  display: inline-block;
-	  width: 1000px; /* ✅  yes, it will work */
-	  height: 1000px; /* ✅  yes, it will work */
-	}
+.inline-block-element {
+  display: inline-block;
+  width: 1000px; /* ✅  yes, it will work */
+  height: 1000px; /* ✅  yes, it will work */
+}
 ```
+
+# block
+
+> Check the length of the string.
+> Take up the whole width
 
 # Block-level Elements
 
@@ -26,6 +33,8 @@
 * Each starts with a **new line**
 * Width & Height **can** be set
 *  ```<div> <p> <h1> <ul> <footer>```
+
+
 
 
 # Inline Elements
@@ -37,5 +46,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDA1MTgzOSwtMjY4NTU4NDM4XX0=
+eyJoaXN0b3J5IjpbLTEzMzczNDM3NDMsLTI2ODU1ODQzOF19
 -->
